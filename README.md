@@ -116,7 +116,7 @@ Supply chain teams can use this tool to:
 The application is deployed using **Streamlit Community Cloud**, allowing users to access the model through a web interface.
 
 Live Application:
-(Add your Streamlit deployment link here)
+[(Add your Streamlit deployment link here)](https://supplier-risk-prediction-app-beta.streamlit.app/)
 
 ---
 
