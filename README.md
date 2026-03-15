@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://supplier-risk-prediction-app-beta.streamlit.app/)
+
 # AI Supplier Risk Prediction Dashboard
 
 ## Application Preview
