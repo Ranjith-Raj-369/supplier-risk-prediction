@@ -4,6 +4,13 @@
 
 ![Dashboard](dashboard.png)
 
+## Deployment
+
+The application is deployed using **Streamlit Community Cloud**, allowing users to access the model through a web interface.
+
+Live Application:
+https://supplier-risk-prediction-app-beta.streamlit.app/
+
 ---
 
 ## Overview
@@ -108,15 +115,6 @@ Supply chain teams can use this tool to:
 * Monitor supplier performance
 * Identify potential risks early
 * Support procurement decisions
-
----
-
-## Deployment
-
-The application is deployed using **Streamlit Community Cloud**, allowing users to access the model through a web interface.
-
-Live Application:
-[(Add your Streamlit deployment link here)](https://supplier-risk-prediction-app-beta.streamlit.app/)
 
 ---
 
